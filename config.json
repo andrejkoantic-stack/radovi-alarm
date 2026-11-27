@@ -1,1 +1,11 @@
 
+{
+  "adresa": "Slavka Krautzeka 10, Rijeka, Croatia",
+  "radijus_m": 500,
+  "rss_izvori": [
+    "https://riportal.net.hr/feed/",
+    "https://www.fiuman.hr/feed/",
+    "https://bodulija.net/feed/"
+  ],
+  "hep_url": "https://www.hep.hr/ods/bez-struje/19?dp=rijeka"
+}
